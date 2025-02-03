@@ -4,6 +4,10 @@
 
 ![Screenshot 2025-02-02 6 37 55 PM](https://github.com/user-attachments/assets/5397ccc9-c994-4242-9068-ce38e2004d12)
 
+![Screenshot 2025-02-03 11 00 17 AM](https://github.com/user-attachments/assets/b2c4fbda-8853-408b-a7ca-6e2cc9fee5f6)
+
+
+
 ## Describe your project
 
 This project alters the look of the various images and uses strings in the 2D arrays for text. It contains 4 images of different foods, and 4 strings of their respective images. Most of the methods within the program affect the Theatre class, changing the look of the current appearance. 
